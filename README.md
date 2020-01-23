@@ -1,2 +1,2 @@
 # hello-world-ak
-this is just another repo
+This is another repo
